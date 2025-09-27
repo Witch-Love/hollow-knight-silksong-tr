@@ -63,7 +63,7 @@
 <entry name="UNDERSTORE_MAP">A crude map of the Underworks.</entry>
 <entry name="PEAK_DJ_TUNING_FORK">An ancient tuning mechanism.</entry>
 <entry name="LIBRARY_THEATRE_LINES">O, great land whose flame doth falter!&lt;br&gt;Whose choir, conductors, all doth fail,&lt;page&gt;Observe! Take heart! That spark still burning,&lt;br&gt;Yon butterfly of crimson grace,&lt;page&gt;All bells shall peal, and voices raise,&lt;br&gt;When brave Trobbio steps, at last, upon the stage!</entry>
-<entry name="ABYSS_LORE_STONE_BASE">TESTPAGE&lt;br&gt;ıİğĞüÜşŞöÖçÇ&lt;page&gt;Erase our fear,&lt;br&gt;Eliminate our desire,&lt;page&gt;To suffer no more,&lt;br&gt;Void, cleanse us.</entry>
+<entry name="ABYSS_LORE_STONE_BASE">Erase our fear,&lt;br&gt;Eliminate our desire,&lt;page&gt;To suffer no more,&lt;br&gt;Void, cleanse us.</entry>
 <entry name="PINSTRESS_SUMMONS">I have departed to scale Pharloom&#8217;s frigid mount. If any bug exists brave enough to match my pin&#8217;s fatal resolve, then climb and face me upon its stormward side.&lt;br&gt;- Pinstress</entry>
 <entry name="SHAMAN_STORE_ROOM">Flickering Flame&lt;br&gt;Five masks swirled soul, brought and broiled.&lt;br&gt;Four stones rage-baked, crushed powder coarse.&lt;page&gt;Three shells fresh from pilgrims fallen, to contain and age.</entry>
 <entry name="CRADLE_CAGE_02">Weaver, in eighth part, last of their line, mortally wounded.&lt;br&gt;Tracked and taken in the Blackbarrens.&lt;br&gt;Four Choristors, one Reed lost to task.</entry>
